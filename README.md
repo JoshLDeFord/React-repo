@@ -1,3 +1,3 @@
 # React
 
-learning react
+learning react!
